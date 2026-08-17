@@ -127,4 +127,12 @@ This project helped me develop my understanding of:
 
 ## Screenshots
 
-Screenshots of the application output will be added here.
+## Screenshots
+
+### Competition Overview, Teams and Projects
+
+![Competition Overview](screenshots/teams-and-projects.png)
+
+### Final Rankings
+
+![Final Rankings](screenshots/final-rankings.png)
