@@ -1,4 +1,3 @@
-# ItzAryy-world-skills-competition-system
 
 # World Skills Competition System
 
